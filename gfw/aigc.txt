@@ -1,0 +1,73 @@
+payload:
+  # OpenAI / ChatGPT
+  - '+.openai.com'
+  - '+.oaistatic.com'
+  - '+.sora.com'
+  - '+.chatgpt.com'
+  - '+.chat.com'
+  - '+.ai.com'
+  - '+.openai'
+  # Perplexity
+  - '+.perplexity.ai'
+  # Claude
+  - '+.anthropic.com'
+  - '+.claude.ai'
+  - '+.claude.com'
+  # Google
+  # Gemini
+  - '+.bard.google.com'
+  - '+.gemini.google'
+  - '+.gemini.google.com'
+  - '+.aisandbox-pa.googleapis.com'
+  - '+.robinfrontend-pa.googleapis.com'
+  # DeepMind
+  - '+.deepmind.com'
+  - '+.deepmind.google'
+  # Generative Language API
+  - '+.generativelanguage.googleapis.com'
+  - '+.geller-pa.googleapis.com'
+  - '+.proactivebackend-pa.googleapis.com'
+  - '+.cloudcode-pa.googleapis.com'
+  # Google AI Studio
+  - '+.ai.google.dev'
+  - '+.g.ai'
+  - '+.aistudio.google.com'
+  - '+.makersuite.google.com'
+  - '+.alkalicore-pa.clients6.google.com'
+  - '+.alkalimakersuite-pa.clients6.google.com'
+  - '+.generativeai.google'
+  # NotebookLM
+  - '+.notebooklm.google'
+  - '+.notebooklm.google.com'
+  # Jules
+  - '+.jules.google.com'
+  # Android Studio
+  - '+.aida.googleapis.com'
+  # Antigravity
+  - '+.antigravity.google'
+  - '+.antigravity-unleash.goog'
+  - '+.daily-cloudcode-pa.googleapis.com'
+  # POE
+  - '+.poe.com'
+  # Meta AI
+  - '+.meta.ai'
+  # Cloudflare AI Gateway
+  - '+.gateway.ai.cloudflare.com'
+  # Dify.AI
+  - '+.dify.ai'
+  # Jasper
+  - '+.clipdrop.co'
+  - '+.jasper.ai'
+  # OpenArt
+  - '+.openart.ai'
+  # GitHub Copilot
+  - '+.api.github.com'
+  # Grok
+  - '+.grok.com'
+  - '+.x.ai'
+  # groq
+  - '+.groq.com'
+  # JetBrains AI
+  - '+.api.jetbrains.ai'
+  # OpenRouter AI
+  - '+.openrouter.ai'
